@@ -9,6 +9,7 @@ const PostListItem = () => {
                 <Image
                     src={"postImg.jpeg"}
                     className={"rounded-2xl object-cover"}
+                    w={"735"}
                 />
             </div>
             {/* details */}
