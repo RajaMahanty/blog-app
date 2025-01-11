@@ -9,6 +9,10 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 .animatedButton {
     animation-duration: 10000ms;
 }
