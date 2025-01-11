@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="w-full h-16 md:h-20 flex items-center justify-between">
             {/* LOGO */}
             <Link to="/" className="flex items-center gap-4 text-2xl font-bold">
-                <Image src="logo.png" alt="Logo" w={32} h={32} />
+                <Image src="logo.png" alt="Logo" w={48} h={48} />
                 <span>quillSpace.</span>
             </Link>
             {/* MOBILE MENU */}
